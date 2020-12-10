@@ -1,0 +1,1 @@
+class UserAlreadyLogedIn extends Error {}

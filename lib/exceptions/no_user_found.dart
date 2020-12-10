@@ -1,0 +1,1 @@
+class NoUserFound extends Error {}

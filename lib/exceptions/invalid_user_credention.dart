@@ -1,0 +1,1 @@
+class InvalidUserCredention extends Error {}
